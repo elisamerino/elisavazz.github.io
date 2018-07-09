@@ -2,10 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-#{
-color:#F25C11;
-}
+
 body{
   background-color:#F5ECD3;
 color: #F25C11;
+}
+a{
+color:#F25C11;
+  text-decoration:underline;
+    font-weight: bold;
 }
