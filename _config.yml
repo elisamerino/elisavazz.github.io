@@ -1,7 +1,1 @@
 theme: jekyll-theme-minimal
-toc:
-  - title: Group 1
-    subfolderitems:
-      - page: Thing 1
-      - page: Thing 2
-      - page: Thing 3
