@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 plugins:
   - jemoji
+theme_settings:
+  # Meta
+  title: vazzzz
+  avatar: assets/img/avatar.jpg
+  description: "Vazquez coding" # used by search engines
+
+  # Header and footer text
+  header_text: >
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
