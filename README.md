@@ -1,8 +1,1 @@
-> Und: Sie sind doch noch jung.
-
-vazquez is an Italian illustrator and designer living in ~~Leipzig~~ Berlin. 
-Here you can keep up with her first adventures in coding.
-
-to follow her art, go on [her website](http://elisavazz.wordpress.com)
-
-:rooster:
+0 lines (0 sloc) 0 Bytes 
