@@ -1,3 +1,7 @@
+
+plugins:
+  - jemoji
+  
 title: elisavazz.github.io
 description: > # this means to ignore newlines until "baseurl:"
   My website
@@ -33,5 +37,3 @@ social:
 gems:
 - jekyll-seo-tag
 
-plugins:
-  - jemoji
