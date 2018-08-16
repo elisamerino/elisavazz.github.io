@@ -6,3 +6,4 @@ or on [GitHub](https://github.com/elisavazz)
 
 **Projects**
 [mini-game](https://elisavazz.github.io/Bugs/)
+technolgy used: HTML5 Canvas, Illustrator
